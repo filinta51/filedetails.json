@@ -144,7 +144,7 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 </key>
 
 "},
-    {"id":2,"file":"dev tun proto tcp remote vpn869386675.opengw.net 995 ;http-proxy-retry ;http-proxy [proxy server] [proxy port]
+    {"id":2,"file":"dev tun proto tcp remote 135.180.106.7 443 ;http-proxy-retry ;http-proxy [proxy server] [proxy port]
 
 
 
